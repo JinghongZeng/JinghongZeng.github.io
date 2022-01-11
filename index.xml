@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Stats</title>
+    <link>https://JinghongZeng.github.io/</link>
+    <description>Recent content on My Stats</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://JinghongZeng.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Draw a flower with XY-pic package in LATEX</title>
+      <link>https://JinghongZeng.github.io/post/2022-01-06-draw-a-flower-with-xy-pic-package-in-latex/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://JinghongZeng.github.io/post/2022-01-06-draw-a-flower-with-xy-pic-package-in-latex/</guid>
+      <description>Recently, I found that XY-pic package can draw complex diagrams in LATEX. It allows users to design the diagram and draw as in a matrix. So a diagram is sliced implicitly as a matrix, where each entry is an element of this matrix. It becomes easy to draw a diagram based on positions.
+I saw a flower pattern on the tissues that I use everyday. So I drew this flower:</description>
+    </item>
+    
+    <item>
+      <title>Hi Stats</title>
+      <link>https://JinghongZeng.github.io/post/2021-12-26-hello-stats/</link>
+      <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://JinghongZeng.github.io/post/2021-12-26-hello-stats/</guid>
+      <description>Hi Stats!
+I really spent some time thinking about which sentence would be more interesting for the first blog. One idea is &amp;ldquo;Hello World&amp;rdquo;, but I wanted to come up with something special, so &amp;ldquo;Hi Stats&amp;rdquo;. I guess nobody used this greeting before.
+I&amp;rsquo;ll share something about Statistics, and maybe case studies from another Github repository.
+Then happy Stats!</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://JinghongZeng.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://JinghongZeng.github.io/contact/</guid>
+      <description>Feel free to send me your ideas or questions.
+Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+  </channel>
+</rss>
