@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on My Stats</title>
+    <title>Blog on Oh My Stats</title>
     <link>https://JinghongZeng.github.io/post/</link>
-    <description>Recent content in Blog on My Stats</description>
+    <description>Recent content in Blog on Oh My Stats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://JinghongZeng.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Among youths tested positive for Covid, higher risk in those hospitalized than those discharged home?</title>
+      <link>https://JinghongZeng.github.io/post/2022-01-18-among-youths-tested-postive-for-covid-higher-risk-in-those-hospitalized-than-those-discharged-home/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://JinghongZeng.github.io/post/2022-01-18-among-youths-tested-postive-for-covid-higher-risk-in-those-hospitalized-than-those-discharged-home/</guid>
+      <description>A recent prospective cohort study on the proportion of youths infected by Covid to have severe outcomes suggests that youths who tested positive for Covid and were hospitalized is more likely to have severe outcomes than those who tested positive for Covid but were discharged home.
+This study only did association analysis, not causal analysis. This apparent difference may be because youths who are in better conditions after getting infected are more likely to get discharged home, otherwise they would be hospitalized.</description>
+    </item>
+    
     <item>
       <title>Draw a flower with XY-pic package in LATEX</title>
       <link>https://JinghongZeng.github.io/post/2022-01-06-draw-a-flower-with-xy-pic-package-in-latex/</link>
